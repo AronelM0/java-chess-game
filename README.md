@@ -27,3 +27,6 @@ This application implements a playable chess game with a graphical interface bui
 - handling check and checkmate detection
 - building a responsive Swing interface
 - implementing save/load through serialization
+
+  ## Run
+Open the project in an IDE and run `Main.java`.
